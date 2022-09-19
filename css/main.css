@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: 'Qs_Iranyekan';
+    src: url('../fonts/Qs_Iranyekan.ttf');
+}
+
+@font-face {
+    font-family: 'Vazirmatn';
+    src: url('../fonts/Vazirmatn-Regular.woff2');
+}
+
+@font-face {
+    font-family: 'Antoan';
+    src: url('../fonts/Gemsbuck01Thin-PKz52.ttf');
+}
+
+body {
+    font-family: 'Vazirmatn';
+}
+
+#logo {
+    font-family: 'Antoan';
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#main-section {
+    direction: rtl;
+}
+
+#title-div {
+    padding: 2rem 5rem;
+}
